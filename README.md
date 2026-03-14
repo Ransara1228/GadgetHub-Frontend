@@ -75,7 +75,6 @@ Backend API is maintained separately in C#:
 ### Orders Page
 ![Orders](docs/screenshots/orders.png)
 
-### Setup Instructions
-![Setup Instructions](docs/screenshots/setup-instructions.png)
+
 
 
