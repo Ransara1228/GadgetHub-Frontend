@@ -2,31 +2,6 @@
 
 A full-stack gadget marketplace project with a PHP frontend and C# ASP.NET Core backend.
 
-## Project Preview
-
-### Home Page
-![Home Hero](docs/screenshots/home-hero.png)
-
-### Featured Products
-![Featured Products](docs/screenshots/featured-products.png)
-
-### Login Page
-![Login](docs/screenshots/login.png)
-
-### Register Page
-![Register](docs/screenshots/register.png)
-
-### Products Page
-![Products](docs/screenshots/products.png)
-
-### Orders Page
-![Orders](docs/screenshots/orders.png)
-
-### Setup Instructions
-![Setup Instructions](docs/screenshots/setup-instructions.png)
-
----
-
 ## Features
 
 - User registration and login
@@ -80,7 +55,27 @@ Backend API is maintained separately in C#:
 
 - `C:\Users\user\source\repos\GagetHub_SOC44_15_New`
 
-## Author
+## Project Preview
 
-- GitHub: [Ransara1228](https://github.com/Ransara1228)
-- Frontend Repository: [GadgetHub-Frontend](https://github.com/Ransara1228/GadgetHub-Frontend)
+### Home Page
+![Home Hero](docs/screenshots/home-hero.png)
+
+### Featured Products
+![Featured Products](docs/screenshots/featured-products.png)
+
+### Login Page
+![Login](docs/screenshots/login.png)
+
+### Register Page
+![Register](docs/screenshots/register.png)
+
+### Products Page
+![Products](docs/screenshots/products.png)
+
+### Orders Page
+![Orders](docs/screenshots/orders.png)
+
+### Setup Instructions
+![Setup Instructions](docs/screenshots/setup-instructions.png)
+
+
