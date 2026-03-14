@@ -1,4 +1,4 @@
-# GadgetHub Frontend - SOC44
+# GadgetHub Frontend 
 
 A full-stack gadget marketplace project with a PHP frontend and C# ASP.NET Core backend.
 
